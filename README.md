@@ -1,10 +1,9 @@
 # korgn-proto
 
-Specification of [korgn]'s protocol with [protobuf].
+Specification of [korgn]'s protocol.
 
 
 [korgn]: https://github.com/moreal/korgn
-[protobuf]: https://github.com/protocolbuffers/protobuf
 
 ## Protocol Support
 
