@@ -16,8 +16,8 @@ Specification of [korgn]'s protocol with [protobuf].
 
 1. *Client* sends [`RequestTCPTunnel`](#RequestTCPTunnel) message with required parameters to *Server*.
 1. *Server* checks that the `RequestTCPTunnel.auth` parameter is valid.
-  - If it is invalid, it will send [`ResponseTCPTunnel`](#ResponseTCPTunnel) with and close the connection.
-  - If it is valid, then it will open the connection and continue to send received bytes to the *Client*
+    - If it is invalid, it will send [`ResponseTCPTunnel`](#ResponseTCPTunnel) with and close the connection.
+    - If it is valid, then it will open the connection and continue to send received bytes to the *Client*
 
 ## Messages 
 
