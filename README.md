@@ -1,9 +1,9 @@
-# korgn-proto
+# polaris-proto
 
-Specification of [korgn]'s protocol.
+Specification of [Polaris]'s protocol.
 
 
-[korgn]: https://github.com/moreal/korgn
+[Polaris]: https://github.com/moreal/polaris
 
 ## Protocol Support
 
