@@ -48,5 +48,7 @@ The response of [`RequestTCPTunnel`](#RequestTCPTunnel). See also [ResultCode](#
 
 ### ResultCode
 
-- SUCCESS = 0;
-- INVALID_AUTHENTICATION = 1;
+The enum to present its result code. Each values are presented as a string.
+
+- "SUCCESS"
+- "INVALID_AUTHENTICATION"
