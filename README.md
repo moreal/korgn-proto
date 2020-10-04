@@ -46,6 +46,8 @@ The response of [`RequestTCPTunnel`](#RequestTCPTunnel). See also [ResultCode](#
 }
 ```
 
+## Enums
+
 ### ResultCode
 
 The enum to present its result code. Each values are presented as a string.
